@@ -4,4 +4,4 @@
 
 # Juan Manuel "Kang" Pérez
 
-:octocat: <https://github.com/kang-makes>
+:octocat: <https://github.com/kilokang>
